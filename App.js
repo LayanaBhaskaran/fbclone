@@ -1,13 +1,6 @@
 
 import './App.css';
-//import Body from './components/Body';
-
-//import Body from './components/Body';
-//import Header from './components/Header';
 import Registration from './components/Registration';
-//import Sidebar from './components/Sidebar';
-//import Login_form from './components/Login_form';
-
 import {BrowserRouter as Router,Route} from 'react-router-dom';
 import Fbheader from './components/Fbheader';
 import Side_Bar from './components/Side_Bar';
