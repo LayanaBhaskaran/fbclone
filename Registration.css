@@ -1,0 +1,23 @@
+.signup{
+    width: 300%;
+    max-width: 400px;
+    padding: 15px;
+    margin: auto;
+    height: 100%;
+}
+.h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  align-items: center;
+  left:300px
+}
+.btn{
+    background-color:rgb(182, 37, 37);
+    color:#0b0c0c;
+    width: 200px;
+    font-weight: 800;
+    border-radius: 5px;
+    
+}
+.btn:hover{
+    background-color: #3b5998;
+}
